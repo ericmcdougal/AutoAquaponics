@@ -1,3 +1,7 @@
 media/
 venv/
 __pycache__/
+setup.json
+.vscode/
+sensor_testdb.db
+config.csv
